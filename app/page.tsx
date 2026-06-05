@@ -146,7 +146,7 @@ export default function ErpDashboard() {
         {/* Header Dashboard Banner */}
         <header className="mb-8 border-b border-gray-800 pb-6">
           <h1 className="text-3xl font-extrabold tracking-tight bg-gradient-to-r from-blue-400 to-indigo-500 bg-clip-text text-transparent">
-            AbolBet Property ERP
+            ADDIS ABABA CITY ADMIN. Property ERP
           </h1>
           <p className="text-gray-400 text-sm mt-1">
             Automated Rental Collections & Non-Compliance Escalation Control
