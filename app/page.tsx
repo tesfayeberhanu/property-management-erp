@@ -1,9 +1,14 @@
 //"use client";
 
 //import React, { useState } from "react";
+//"use client";
+
+//import React, { useState } from "react";
+
 "use client";
 
 import React, { useState } from "react";
+// ... rest of the code follows below ...
 // ... rest of the code follows below ...
 // 1. MOCK DATABASE (Simulating properties under management with tenant contacts)
 const initialProperties = [
